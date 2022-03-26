@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="learn--kotlin--korge--2048-js-4.10.1">
+    <output-path>$PROJECT_DIR$/build/libs</output-path>
+    <root id="archive" name="learn--kotlin--korge--2048-js-4.10.1.jar">
+      <element id="module-output" name="learn--kotlin--korge--2048.jsMain" />
+    </root>
+  </artifact>
+</component>
